@@ -15,6 +15,11 @@ Interactive hotel finder built with React and Leaflet.
 - **Repository:** https://github.com/BOgdanRoz/StayFinder
 - **Live Demo:** https://stay-finder-nine-delta.vercel.app
 
----
+### MyLibrary
+
+A modern book library application built with React and API.
+
+- **Repository:** https://github.com/BOgdanRoz/MyLibrary
+- **Live Demo:** https://my-library-reading-room.vercel.app/
 
 More projects will be added here over time.
