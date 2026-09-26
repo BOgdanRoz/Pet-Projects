@@ -27,6 +27,6 @@ A modern book library application built with React and API.
 A Online Shop with Cosmic Products and My first project built with React TypeScript
 
 - **Repository:** https://github.com/BOgdanRoz/CosmoShop
-- **Live Demo:** https://cosmo-shoping-center.vercel.app/
+- **Live Demo:** https://cosmo-shoping-center.vercel.app
 
 More projects will be added here over time.
